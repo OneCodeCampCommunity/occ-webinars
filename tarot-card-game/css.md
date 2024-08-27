@@ -29,7 +29,7 @@ button {
 }
 
 #cardDisplay {
-  margin-top: 20px;
+  margin: auto;
   width: 250px;
   height: 350px;
   background-size: cover;
